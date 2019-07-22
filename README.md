@@ -2,4 +2,4 @@
 
 Vibrant dark syntax theme
 
-![screenshot](https://i.imgur.com/gS7kKbz.png)
+![screenshot](https://i.imgur.com/pVtAci6.png)
