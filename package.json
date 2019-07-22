@@ -1,7 +1,7 @@
 {
   "name": "dash-black-syntax",
   "theme": "syntax",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "main": "./lib/dash-syntax",
   "description": "Vibrant dark syntax theme",
   "keywords": [
