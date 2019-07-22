@@ -9,7 +9,7 @@
     "theme",
     "dark"
   ],
-  "repository": "https://github.com/cpsdqs/dash-syntax",
+  "repository": "https://github.com/surajk95/dash-black-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
